@@ -1,0 +1,1335 @@
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8d4a762] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 52 insertions(+), 6 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 36e9a7e] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5ea4293] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 31764c3] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e3d457a] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 40ff4ea] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 0782ef6] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5aebeae] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 35 insertions(+), 26 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6248a47] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f9ec5bf] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 1551ced] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 10 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ab426b8] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 27 insertions(+), 8 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master dd29692] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 55 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c807ab9] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+[master 7ffb19c] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2aa8cb6] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+), 2 deletions(-)
+D	examples/composite_ex
+D	examples/constructor_ex
+M	myMalloc.c
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple0
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 1882d0f] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 37 files changed, 37 insertions(+), 1 deletion(-)
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple0
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 0dfffef] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 54 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 2ce8bb4] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master aaca116] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 102bb32] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master bbee1d9] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 23db72a] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 28505b7] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 24 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 975848e] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b004534] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 286dc0a] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b419c6a] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master bde9097] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 37 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5643aa0] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 30 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 7c1a24b] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f788f69] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 23 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2ccd2ac] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2da03b1] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4cb1fc3] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 13008fe] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f37ce00] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 39a2739] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 42012da] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c4f5bdb] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ee6ce97] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 391f7f4] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e356f22] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5a5e8ad] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master df748ce] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 9daf68e] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 575209f] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e20fea1] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ba41f2e] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 384ce6f] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a01006b] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 24 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master adb291c] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3b9c8c5] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f5fcf2e] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 95329a6] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d3bbb6a] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 11620b0] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 6df058c] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c83da82] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 7bd51c5] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5f6ceeb] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master bde177d] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 2 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 838900a] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a8eefa9] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 35 insertions(+), 12 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a6a0301] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 4 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master e79c0db] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2d88efa] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master fb5b526] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2d84922] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 5c25d43] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master fbfd545] Commit
+ Committer: Jonathan Su <su324@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 22 insertions(+), 2 deletions(-)
